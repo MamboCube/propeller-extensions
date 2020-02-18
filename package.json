@@ -51,6 +51,7 @@
     "vsmobile.vscode-react-native",
     "vuhrmeister.vscode-meteor",
     "wix.vscode-import-cost",
-    "wmaurer.change-case"
+    "wmaurer.change-case",
+    "kamikillerto.vscode-colorize"
   ]
 }
